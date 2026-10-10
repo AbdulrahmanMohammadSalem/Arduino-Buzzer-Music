@@ -1,5 +1,5 @@
 """
-    Originally Created by ChatGPT, modified by AbdulrahmanMohammadSalem
+    Originally created by ChatGPT, modified by AbdulrahmanMohammadSalem
     Use it in a terminal like this:
         python midi_to_arduino.py <you_file_name>.mid
 """
